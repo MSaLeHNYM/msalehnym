@@ -1,8 +1,4 @@
-# 👋 Hi, I'm MSaLeHNYM
-
-![Profile views](https://komarev.com/ghpvc/?username=MSaLeHNYM&color=blueviolet)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MSaLeHNYM&show_icons=true&theme=radical)
-
+# 👋 Hi, I'm SaLeH
 ---
 
 ## 🚀 Core Skills
