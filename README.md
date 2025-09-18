@@ -33,7 +33,7 @@
 
 ---
 
-## 🧰 Tech Toolbox (by priority)
+## 🧰 Tech Toolbox
 
 <!-- Core -->
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -72,21 +72,6 @@
 - 🗣️ **Languages:** Persian (native), English (fluent)
 - 🛠️ Building open-source projects with passion for C++, Unreal Engine, Linux, Networking, and AI.
 - 💡 Always learning, sharing, and exploring new technologies.
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSaLeHNYM&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSaLeHNYM&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSaLeHNYM&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
