@@ -1,11 +1,16 @@
 # 👋 Hi, I'm SaLeH
+
+💻 C++ engineer with strong skills in **Unreal Engine**, **Linux**, and **Networking**.  
+🐍 I also develop in **Python**, work with **embedded systems**, and tune **AI/ML models** (NeMo, Piper, Whisper).  
+🌍 Open-source enthusiast from **Tehran, Iran** — building projects like [Socketify](https://github.com/MSaLeHNYM/Socketify).  
+
 ---
 
 ## 🚀 Core Skills
 
 | C++ | Unreal Engine | Linux | Networking | Python |
 | :--: | :--: | :--: | :--: | :--: |
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![Networking](https://img.shields.io/badge/-Networking-2C8EBB?logo=ethernet&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![Networking](https://img.shields.io/badge/-Networking-2C8EBB?logo=wireshark&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
 
@@ -18,7 +23,7 @@
   Advanced networking stack with [DPDK](https://www.dpdk.org/) for ultra-fast data processing.
 
 - [**piper**](https://github.com/MSaLeHNYM/piper)  
-  Voice AI model implementation and tuning (Nemo, Piper, BERT, and more).
+  Voice AI model implementation and tuning (NeMo, Piper, Whisper, Transformers).
 
 - [**ulos**](https://github.com/MSaLeHNYM/ulos)  
   Explore my OS-level utilities and experiments.
@@ -50,8 +55,14 @@
 
 ## 📊 GitHub Metrics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSaLeHNYM&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MSaLeHNYM&theme=rogue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSaLeHNYM&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSaLeHNYM&layout=compact&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSaLeHNYM&theme=radical" />
+</p>
 
 ---
 
@@ -62,4 +73,6 @@
 
 ---
 
-> “C++, Unreal Engine, Linux, and networking are my playgrounds. I bring ideas to life in Python, embedded systems, and AI. Let’s build something amazing!”
+> “C++, Unreal Engine, Linux, and networking are my playgrounds.  
+> I bring ideas to life in Python, embedded systems, and AI.  
+> Let’s build something amazing!”
